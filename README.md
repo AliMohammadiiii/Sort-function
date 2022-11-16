@@ -1,2 +1,3 @@
-# Sort-function
-here is sort function
+# Sort-functions
+here is sort functions
+You can see Merge Sort in C++ and ...
